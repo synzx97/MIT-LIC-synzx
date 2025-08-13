@@ -1,21 +1,13 @@
-##MIT License
+# MIT License Template
 
-Copyright (c) 2025 Fathur Alamsyah Bayu Saputra
+This repository contains a ready-to-use MIT License template for all my projects.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Usage
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+- Copy the `LICENSE` file from this repo to the root of any new repository.
+- Update the copyright year and your name if needed.
+- Link to this LICENSE file in your README if desired:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+```markdown
+## License
+This project is licensed under the [MIT License](LICENSE).
